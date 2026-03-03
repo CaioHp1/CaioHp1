@@ -12,7 +12,7 @@
 
 Sou uma pessoa tranquila, colaborativa e dedicada ao trabalho em equipe. Tenho facilidade para me adaptar a ambientes dinâmicos e lidar com desafios, sempre mantendo uma postura simpática, paciente e profissional.
 
-Atualmente atuo como **estagiário no Detran-PE**, onde contribuo no desenvolvimento de projetos utilizando tecnologias modernas como **C#, TypeScript, JavaScript e React**.
+Atualmente atuo como **estagiário no Detran-PE** há quase 2 ano, onde contribuo no desenvolvimento de projetos utilizando tecnologias modernas como **C#, TypeScript, JavaScript e React**.
 
 Tenho grande interesse em **tecnologia, desenvolvimento de software e aprendizado contínuo**, buscando sempre evoluir minhas habilidades e encontrar soluções eficientes para problemas.
 
