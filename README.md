@@ -37,10 +37,9 @@ Tenho grande interesse em **tecnologia, desenvolvimento de software e aprendizad
 
 ## 📊 Estatísticas do GitHub
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caiohp1&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiohp1&layout=compact&theme=tokyonight"/>
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=caiohp1&theme=tokyonight)
+
 
 ---
 
