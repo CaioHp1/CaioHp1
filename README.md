@@ -53,11 +53,11 @@ Tenho grande interesse em **tecnologia, desenvolvimento de software e aprendizad
 
 ## 👀 Contador de visitas
 
-![VisitorCount](https://profile-counter.glitch.me/CaioHp1/count.svg)
+![](https://komarev.com/ghpvc/?username=caiohp1&label=VISITAS&color=blue&style=for-the-badge)
 
 ---
 
 ⭐ **Curiosidade:** Eu adoro jogos e tecnologia!
-## 👀 Contador de visitas
 
-![](https://komarev.com/ghpvc/?username=caiohp1&label=VISITAS&color=blue&style=for-the-badge)
+
+
