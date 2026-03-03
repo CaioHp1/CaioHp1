@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Caio+Henrique!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Estagi%C3%A1rio+no+Detran-PE;Aprendendo+Python+%F0%9F%90%8D;React+%7C+TypeScript+%7C+C%23" alt="Typing SVG" />
 </p>
-
+<p align="center">
 💻 **Estagiário em Desenvolvimento no Detran-PE**  
 🎓 Estudante e entusiasta da área de tecnologia  
 🎮 Apaixonado por jogos e música  
-
+</p>
 ---
 
 ## 🚀 Sobre mim
@@ -26,15 +26,10 @@ Tenho grande interesse em **tecnologia, desenvolvimento de software e aprendizad
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ---
 
 ## 📊 Estatísticas do GitHub
