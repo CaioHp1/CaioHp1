@@ -59,3 +59,6 @@ Tenho grande interesse em **tecnologia, desenvolvimento de software e aprendizad
 ---
 
 ⭐ **Curiosidade:** Eu adoro jogos e tecnologia!
+## 👀 Contador de visitas
+
+![](https://komarev.com/ghpvc/?username=caiohp1&label=VISITAS&color=blue&style=for-the-badge)
