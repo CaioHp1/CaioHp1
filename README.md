@@ -1,12 +1,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Caio+Henrique!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Estagi%C3%A1rio+no+Detran-PE;Aprendendo+Python+%F0%9F%90%8D;React+%7C+TypeScript+%7C+C%23" alt="Typing SVG" />
 </p>
+
 <p align="center">
-💻 **Estagiário em Desenvolvimento no Detran-PE**  
+  
+💻 Estagiário em Desenvolvimento no Detran-PE
 🎓 Estudante e entusiasta da área de tecnologia  
 🎮 Apaixonado por jogos e música  
+
 </p>
----
+
 
 ## 🚀 Sobre mim
 
@@ -51,6 +54,7 @@ Tenho grande interesse em **tecnologia, desenvolvimento de software e aprendizad
 <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 </div>
+
 ## 📊 Estatísticas do GitHub
 
 
