@@ -4,7 +4,7 @@
 </strong>
 
 - 🌱 Eu estou atualmente aprendendo <strong>Python</strong>
-- 😀 <strong>Atualmente atuo como estagiário no Detran-Pe, ao longo
+- 😀 <strong>Atualmente atuo como estagiário no Detran-Pe há 2 anos e ao longo
 do estagio contribui com novos projetos utilizando
 linguagens como C#, Typescript, javascript e Frameworks
 como React com Tailwind-css
